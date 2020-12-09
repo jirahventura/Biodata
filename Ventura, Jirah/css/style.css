@@ -1,0 +1,16 @@
+*
+h1{
+	font-family: Century;
+	font-size: 30px;
+	color: blue;
+}
+h2{
+	font-family: Century;
+	font-size: 20px;
+	padding-left: 20px;
+}
+label{
+	padding-left: 20px;
+	font-size: 15px;
+	font-family: Century;
+}
